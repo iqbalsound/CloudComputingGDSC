@@ -1,0 +1,74 @@
+    1  exit
+    2  su
+    3  sudo dnf update
+    4  sudo poweroff
+    5  ip a s
+    6  sudo dnf update
+    7  ping www.google.com
+    8  sudo dnf install lynx
+    9  clear
+   10  sudo poweroff
+   11  ip a s
+   12  ping 192.168.59.104
+   13  sudo poweroff
+   14  sudo hostnamectl set-hostname git
+   15  hostname
+   16  nmcli
+   17  sudo nmtui
+   18  clear
+   19  nmcli
+   20  sudo nmtui
+   21  nmcli
+   22  sudo reboot
+   23  nmcli
+   24  sudo nmtui
+   25  clear
+   26  nmcli
+   27  reboot
+   28  sudo reboot
+   29  ip a s
+   30  nmcli
+   31  clear
+   32  sudo dnf update
+   33  sudo nmtui
+   34  sudo dnf update
+   35  sudo reboot
+   36  sudo nmtui
+   37  clear
+   38  sudo dnf update
+   39  sudo nmtui
+   40  clear
+   41  sudo dnf update
+   42  clear
+   43  ls
+   44  mkdr gitrepos
+   45  mkdir gitrepos
+   46  cd gitrepos
+   47  mkdir CloudComputingGDSC
+   48  cd CloudComputingGDSC
+   49  sudo dnf install git
+   50  echo "# CloudComputingGDSC" >> README.md
+   51  git init
+   52  git add README.md
+   53  git commit -m "test commi readme"
+   54  git config --global user.email "iqbalsound@yahoo.com"
+   55  git config --global user.name "iqbalsound"
+   56  git commit -m "test commi readme"
+   57  git branch -M main
+   58  git remote add origin https://github.com/iqbalsound/CloudComputingGDSC.git
+   59  git push -u origin
+   60  git push --set-upstream origin main
+   61  git remote set-url origin https://ghp_gfBeXo9qwnUhzw6xOLBx9pOT69aKg0xnHtI@github.com/iqbalsound/CloudComputingGDSC.git
+   62  git push -u origin
+   63  git push --set-upstream origin main
+   64  git push -u origin
+   65  git push --set-upstream origin main
+   66  git remote add origin https://github.com/iqbalsound/CloudComputingGDSC.git
+   67  git branch -M main
+   68  git push -u origin main
+   69  git push 
+   70  git push --set-upstream origin main
+   71  git remote set-url origin https://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@github.com/iqbalsound/CloudComputingGDSC.git
+   72  git push --set-upstream origin main
+   73  git push -u origin main
+   74  history >>commnads.histroy
