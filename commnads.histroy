@@ -51,14 +51,14 @@
    51  git init
    52  git add README.md
    53  git commit -m "test commi readme"
-   54  git config --global user.email "iqbalsound@yahoo.com"
-   55  git config --global user.name "iqbalsound"
+   54  git config --global user.email "YourEmail@domain.com"
+   55  git config --global user.name "Your Name"
    56  git commit -m "test commi readme"
    57  git branch -M main
    58  git remote add origin https://github.com/iqbalsound/CloudComputingGDSC.git
    59  git push -u origin
    60  git push --set-upstream origin main
-   61  git remote set-url origin https://ghp_gfBeXo9qwnUhzw6xOLBx9pOT69aKg0xnHtI@github.com/iqbalsound/CloudComputingGDSC.git
+   61  git remote set-url origin https://ghp<PersonalToken>@github.com/iqbalsound/CloudComputingGDSC.git
    62  git push -u origin
    63  git push --set-upstream origin main
    64  git push -u origin
@@ -68,7 +68,7 @@
    68  git push -u origin main
    69  git push 
    70  git push --set-upstream origin main
-   71  git remote set-url origin https://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@github.com/iqbalsound/CloudComputingGDSC.git
+   71  git remote set-url origin https://ghp<PersonalToken>@github.com/iqbalsound/CloudComputingGDSC.git
    72  git push --set-upstream origin main
    73  git push -u origin main
    74  history >>commnads.histroy
